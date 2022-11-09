@@ -1,0 +1,19 @@
+{
+  "name": "cypress_pom",
+  "version": "1.0.0",
+  "description": "Cypress project with cucumber and jenkins",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luis Fandiño",
+  "license": "ISC",
+  "devDependencies": {
+    "@bahmutov/cypress-esbuild-preprocessor": "^2.1.5",
+    "@cypress/xpath": "^2.0.3",
+    "cypress": "^10.11.0"
+  },
+  "dependencies": {
+    "@badeball/cypress-cucumber-preprocessor": "^13.0.3"
+  }
+}
