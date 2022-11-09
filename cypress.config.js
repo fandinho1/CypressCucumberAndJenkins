@@ -30,6 +30,7 @@ module.exports = defineConfig({
     specPattern: "cypress/e2e/features/*.feature",
     chromeWebSecurity: false,
     baseUrl: "https://demoqa.com/login",
-    defaultCommandTimeout : 7000
+    defaultCommandTimeout : 7000,
+    projectId: "zba8wk"
   },
 });

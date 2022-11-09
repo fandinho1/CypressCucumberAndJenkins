@@ -1,5 +1,5 @@
 {
-  "name": "cypress_pom",
+  "name": "cypress_cucumber_jenkins",
   "version": "1.0.0",
   "description": "Cypress project with cucumber and jenkins",
   "main": "index.js",
