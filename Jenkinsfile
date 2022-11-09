@@ -15,7 +15,7 @@ pipeline {
                         git url: 'https://github.com/fandinho1/CypressCucumberAndJenkins.git'
                         bat 'npm install'
                         bat 'npm update'                       
-                        bat 'npx cypress run --record --key bf7ccc1b-765d-41d3-8b6f-e6b22a0a5c74 --parallel'
+                        bat 'npx cypress run cypress run --record --key bf7ccc1b-765d-41d3-8b6f-e6b22a0a5c74 --parallel'
                     
                     }
                 }
@@ -28,7 +28,7 @@ pipeline {
                         git url: 'https://github.com/fandinho1/CypressCucumberAndJenkins.git'
                         bat 'npm install'
                         bat 'npm update'                       
-                        bat 'npx cypress run --record --key bf7ccc1b-765d-41d3-8b6f-e6b22a0a5c74 --parallel'
+                        bat 'npx cypress run cypress run --record --key bf7ccc1b-765d-41d3-8b6f-e6b22a0a5c74 --parallel'
                     
                     }
                 }
@@ -41,7 +41,7 @@ pipeline {
                         git url: 'https://github.com/fandinho1/CypressCucumberAndJenkins.git'
                         bat 'npm install'
                         bat 'npm update'                       
-                        bat 'npx cypress run --record --key bf7ccc1b-765d-41d3-8b6f-e6b22a0a5c74 --parallel'
+                        bat 'npx cypress run cypress run --record --key bf7ccc1b-765d-41d3-8b6f-e6b22a0a5c74 --parallel'
                     
                     }
                 }
@@ -54,7 +54,7 @@ pipeline {
                         git url: 'https://github.com/fandinho1/CypressCucumberAndJenkins.git'
                         bat 'npm install'
                         bat 'npm update'                       
-                        bat 'npx cypress run --record --key bf7ccc1b-765d-41d3-8b6f-e6b22a0a5c74 --parallel'
+                        bat 'npx cypress run cypress run --record --key bf7ccc1b-765d-41d3-8b6f-e6b22a0a5c74 --parallel'
                     
                     }
                 }
